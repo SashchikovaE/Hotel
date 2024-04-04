@@ -313,10 +313,10 @@
 
         private Panel panel1;
         public Panel panel2;
-        private RadioButton areDischargedButton;
-        private RadioButton occupiedButton;
+        public RadioButton areDischargedButton;
+        public RadioButton occupiedButton;
         public RadioButton reservedButton;
-        private RadioButton availableButton;
+        public RadioButton availableButton;
         private Label status;
         public ListBox guestsBox;
         private Label listGuests;
